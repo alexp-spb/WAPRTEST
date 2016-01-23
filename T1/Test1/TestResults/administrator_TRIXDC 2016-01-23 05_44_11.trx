@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d1e488ae-fcc3-4779-8bcd-14bc81eadd03" name="administrator@TRIXDC 2016-01-23 05:44:11" runUser="TRIXDOM\administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7b82729a-3579-459c-a374-0fb5af19773d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="administrator_TRIXDC 2016-01-23 05_44_11">
+      <DeploymentItem filename="c:\users\administrator\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-01-23T05:44:11.3511637-08:00" queuing="2016-01-23T05:44:11.3753337-08:00" start="2016-01-23T05:44:11.3840349-08:00" finish="2016-01-23T05:44:11.5367893-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="t1Test" storage="c:\users\administrator\documents\visual studio 2010\projects\test1\tests\bin\debug\tests.dll" id="56a66309-e943-fff4-d2a4-806e0014134c">
+      <Execution id="cb617434-f1aa-4372-ae1c-76fd96ed57a4" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 2010/Projects/Test1/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.CompTest, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="t1Test" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="56a66309-e943-fff4-d2a4-806e0014134c" executionId="cb617434-f1aa-4372-ae1c-76fd96ed57a4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cb617434-f1aa-4372-ae1c-76fd96ed57a4" testId="56a66309-e943-fff4-d2a4-806e0014134c" testName="t1Test" computerName="TRIXDC" duration="00:00:00.0108062" startTime="2016-01-23T05:44:11.3908025-08:00" endTime="2016-01-23T05:44:11.5126193-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb617434-f1aa-4372-ae1c-76fd96ed57a4">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1700b429-5580-44f3-b263-04e636aa94c4" name="administrator@TRIXDC 2016-01-23 05:43:29" runUser="TRIXDOM\administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7b82729a-3579-459c-a374-0fb5af19773d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="administrator_TRIXDC 2016-01-23 05_43_29">
+      <DeploymentItem filename="c:\users\administrator\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-01-23T05:43:29.0780482-08:00" queuing="2016-01-23T05:43:29.9853790-08:00" start="2016-01-23T05:43:30.0485476-08:00" finish="2016-01-23T05:43:30.4543580-08:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="3" executed="3" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="2" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\administrator\documents\visual studio 2010\projects\test1\tests\bin\debug\tests.dll" id="211e0a47-30b8-60a6-4222-2c968cd0d482">
+      <Execution id="4b800d42-274b-485a-9638-871bd00d22ac" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 2010/Projects/Test1/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.UnitTest1, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="t1Test" storage="c:\users\administrator\documents\visual studio 2010\projects\test1\tests\bin\debug\tests.dll" id="56a66309-e943-fff4-d2a4-806e0014134c">
+      <Execution id="f1e10dcf-2e45-458d-b3f6-76589e871413" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 2010/Projects/Test1/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.CompTest, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="t1Test" />
+    </UnitTest>
+    <UnitTest name="CompConstructorTest" storage="c:\users\administrator\documents\visual studio 2010\projects\test1\tests\bin\debug\tests.dll" id="960aa71d-2bba-75c9-ffc8-1e40fa7c979f">
+      <Execution id="f6a7c425-f934-4da5-ae74-326e78470fbe" />
+      <TestMethod codeBase="c:/users/administrator/documents/visual studio 2010/Projects/Test1/Tests/bin/Debug/Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Tests.CompTest, Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CompConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="211e0a47-30b8-60a6-4222-2c968cd0d482" executionId="4b800d42-274b-485a-9638-871bd00d22ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="56a66309-e943-fff4-d2a4-806e0014134c" executionId="f1e10dcf-2e45-458d-b3f6-76589e871413" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="960aa71d-2bba-75c9-ffc8-1e40fa7c979f" executionId="f6a7c425-f934-4da5-ae74-326e78470fbe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4b800d42-274b-485a-9638-871bd00d22ac" testId="211e0a47-30b8-60a6-4222-2c968cd0d482" testName="TestMethod1" computerName="TRIXDC" duration="00:00:00.0118661" startTime="2016-01-23T05:43:30.0791748-08:00" endTime="2016-01-23T05:43:30.3232353-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b800d42-274b-485a-9638-871bd00d22ac">
+    </UnitTestResult>
+    <UnitTestResult executionId="f1e10dcf-2e45-458d-b3f6-76589e871413" testId="56a66309-e943-fff4-d2a4-806e0014134c" testName="t1Test" computerName="TRIXDC" duration="00:00:00.0343558" startTime="2016-01-23T05:43:30.3299350-08:00" endTime="2016-01-23T05:43:30.3672619-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f1e10dcf-2e45-458d-b3f6-76589e871413">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at Tests.CompTest.t1Test() in c:\users\administrator\documents\visual studio 2010\Projects\Test1\Tests\CompTest.cs:line 75
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f6a7c425-f934-4da5-ae74-326e78470fbe" testId="960aa71d-2bba-75c9-ffc8-1e40fa7c979f" testName="CompConstructorTest" computerName="TRIXDC" duration="00:00:00.0113787" startTime="2016-01-23T05:43:30.3825755-08:00" endTime="2016-01-23T05:43:30.3959749-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6a7c425-f934-4da5-ae74-326e78470fbe">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at Tests.CompTest.CompConstructorTest() in c:\users\administrator\documents\visual studio 2010\Projects\Test1\Tests\CompTest.cs:line 85
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
