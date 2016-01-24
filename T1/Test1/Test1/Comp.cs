@@ -11,6 +11,8 @@ namespace Test1
      {
         // throw new Exception("Feature 1 not working !!!");
           // ver 5
+          //
+         Console.WriteLine("Ver 10");
      }
 
     }

@@ -5,3 +5,17 @@ c:\users\administrator\documents\visual studio 2010\Projects\Test1\Tests\bin\Deb
 c:\users\administrator\documents\visual studio 2010\Projects\Test1\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2010\Projects\Test1\Tests\obj\Debug\Tests.dll
 c:\users\administrator\documents\visual studio 2010\Projects\Test1\Tests\obj\Debug\Tests.pdb
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\bin\Debug\Tests.dll
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\bin\Debug\Tests.pdb
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\bin\Debug\Test1.exe
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\bin\Debug\Test1.pdb
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\obj\Debug\Tests.dll
+C:\_Projects\cont,gds\tests\github\WAPRTEST-master\T1\Test1\Tests\obj\Debug\Tests.pdb
+N:\Github.alex-spb\T1\Test1\Tests\bin\Debug\Tests.dll
+N:\Github.alex-spb\T1\Test1\Tests\bin\Debug\Tests.pdb
+N:\Github.alex-spb\T1\Test1\Tests\bin\Debug\Test1.exe
+N:\Github.alex-spb\T1\Test1\Tests\bin\Debug\Test1.pdb
+N:\Github.alex-spb\T1\Test1\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+N:\Github.alex-spb\T1\Test1\Tests\obj\Debug\Tests.dll
+N:\Github.alex-spb\T1\Test1\Tests\obj\Debug\Tests.pdb
