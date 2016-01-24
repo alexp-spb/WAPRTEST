@@ -8,7 +8,7 @@ namespace Test1
     class Comp
     {
       public void t1 ()
-     {d
+     {
          throw new Exception("Feature 1 not working !!!");
           // ver 5
           //
