@@ -12,7 +12,7 @@ namespace Tests
     ///</summary>
     [TestClass()]
     public class CompTest
-    {s
+    { 
 
 
         private TestContext testContextInstance;
