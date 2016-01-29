@@ -10,7 +10,7 @@ namespace Test1
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Ver 21");
+            Console.WriteLine("Ver 31");
         }
     }
 }
