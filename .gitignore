@@ -4,6 +4,6 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
-
+*/obj/Debug*
 *.exe
 
